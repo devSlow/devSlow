@@ -28,4 +28,4 @@ A curated collection of high-quality prompts for AI tools like ChatGPT/Claude, o
 - **数据捐赠**：匿名分享你的AI交互日志（需同意隐私条款）  
 
 > 💡 **小贴士**：关注 `README.md` 中的「Prompt Engineering Cheat Sheet」快速上手  
-> 📩 联系方式：📧 prompt.arsenal@example.com | @词间渡（Twitter/LinkedIn）
+> 📩 联系方式：📧 xiaojibaike@gmail.com | @词间渡（Twitter/LinkedIn）
